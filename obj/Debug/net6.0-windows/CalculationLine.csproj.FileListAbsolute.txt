@@ -1,0 +1,14 @@
+E:\CalculationLine\bin\Debug\net6.0-windows\CalculationLine.exe
+E:\CalculationLine\bin\Debug\net6.0-windows\CalculationLine.deps.json
+E:\CalculationLine\bin\Debug\net6.0-windows\CalculationLine.runtimeconfig.json
+E:\CalculationLine\bin\Debug\net6.0-windows\CalculationLine.dll
+E:\CalculationLine\bin\Debug\net6.0-windows\CalculationLine.pdb
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.GeneratedMSBuildEditorConfig.editorconfig
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.AssemblyInfoInputs.cache
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.AssemblyInfo.cs
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.csproj.CoreCompileInputs.cache
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.dll
+E:\CalculationLine\obj\Debug\net6.0-windows\refint\CalculationLine.dll
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.pdb
+E:\CalculationLine\obj\Debug\net6.0-windows\CalculationLine.genruntimeconfig.cache
+E:\CalculationLine\obj\Debug\net6.0-windows\ref\CalculationLine.dll
